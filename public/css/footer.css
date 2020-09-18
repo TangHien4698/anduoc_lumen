@@ -1,0 +1,154 @@
+.footer {
+  background: #232323;
+  padding-top: 50px;
+}
+
+.logo-footer {
+  color: white;
+}
+
+h3.address {
+  padding: 10px;
+}
+
+.menu-footer-product ul li {
+  width: 20%;
+  float: left;
+  padding-bottom: 20px;
+}
+
+.menu-footer-product span {
+  color: #8b8b8b;
+}
+
+.menu-footer-product ul li a span {
+  display: block;
+  font-size: 12px;
+}
+
+.menu-footer-product h5 {
+  padding-bottom: 20px;
+}
+
+h3.address {
+  color: #8b8b8b;
+  padding-top: 25px;
+}
+
+.copy-right {
+  border-top: 1px solid #7b7b7b;
+  margin-top: 30px;
+}
+
+.copy-right p {
+  text-align: center;
+  color: #7b7b7b;
+  padding-top: 30px;
+}
+
+.infor-cart-footer {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  background: black;
+  width: 35px;
+  height: 100%;
+  z-index: 100;
+}
+
+.infor-cart-footer ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  width: 35px;
+  background: #000;
+  height: 100%;
+  transition: all 0.15s;
+  z-index: 1000;
+  padding: 25px 0;
+}
+
+.icon-cart {
+  color: #fff;
+  display: block;
+  padding: 0px 0;
+  font-size: 11px;
+  text-align: center;
+  position: relative;
+}
+
+.icon-cart i.fa.fa-shopping-cart {
+  display: block;
+  line-height: 20px;
+  font-size: 17px;
+}
+
+.text-cart-footer {
+  color: #fff;
+  display: block;
+  padding: 0px 0;
+  font-size: 11px;
+  text-align: center;
+  position: relative;
+}
+
+.number-cart-footer {
+  color: #fff;
+  display: block;
+  padding: 0px 0;
+  font-size: 11px;
+  text-align: center;
+  position: relative;
+}
+
+.number-cart-footer span {
+  display: inline-block;
+  background: #fff;
+  padding: 0 4px;
+  color: #000;
+  border-radius: 2px;
+  margin-top: 3px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.icon-user {
+  margin: 10px 10px;
+}
+
+.footer .col-sm-3 {
+  padding-right: 0px;
+}
+
+.footer .col-sm-9 {
+  padding-left: 0px;
+}
+
+li.user-footer {
+  color: white;
+  padding-top: 20px;
+  text-align: center;
+  font-size: 12px;
+}
+
+li.like-footer {
+  color: white;
+  padding-top: 20px;
+  text-align: center;
+  font-size: 12px;
+}
+
+li.view-footer {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+}
+
+li.cart-footer {
+  padding-top: 0px;
+}
+
+.view-footer {
+  padding-top: 30px;
+}
+
